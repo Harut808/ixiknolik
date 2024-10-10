@@ -2,7 +2,6 @@ const obshi = document.querySelector("#dem");
 const vandak = [...document.querySelectorAll(".div")];
 const body = document.querySelector("body");
 const verj = document.createElement("section");
-const audio = document.querySelector('audio')
 let x = "X";
 let y = 'O'
 let count = 0;
